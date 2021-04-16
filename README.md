@@ -15,8 +15,8 @@
 This project was developed with the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [ReactJs](https://reactjs.org/)
-- [Miragejs](https://miragejs.com/)
+- [ReactJS](https://reactjs.org/)
+- [MirageJS](https://miragejs.com/)
 
 ## ❓ About
 An application where the user places his transactions by dividing them into entries and exits, and thus receiving the remaining amount.
