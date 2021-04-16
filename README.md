@@ -15,7 +15,7 @@
 This project was developed with the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
+- [ReactJs](https://reactjs.org/)
 - [Miragejs](https://miragejs.com/)
 
 ## ❓ About
